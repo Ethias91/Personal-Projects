@@ -1,4 +1,4 @@
-# Let's try building a program that will let me calculate taxes on simple purchases. right?
+# You can use this program to calculate sales taxes on a purchase! Curse the US and their inability to include taxes on costs. 
 cost = input("What is the subtotal of the product? $")
 # Updated to ask what tax rate instead
 Tax = input("What is the tax rate of your state? Enter in the format [0.00] ")
